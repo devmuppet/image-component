@@ -5,7 +5,7 @@ import { bgWrap, bgText } from '../styles.module.css'
 const Background = () => (
   <div>
     <ViewSource pathname="pages/background.js" />
-    <div className={bgWrap}>
+    <div className={styles.container}>
       <Image
         alt="ewergot"
         src="/IMG-20211103-WA0012.jpg"
