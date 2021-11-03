@@ -10,7 +10,7 @@ const Index = () => (
   <div className={styles.container}>
     <ViewSource pathname="pages/index.js" />
     <div className={styles.card}>
-          <Link href="/background">
+          <Link href="/layout-responsive.js">
             <a><h1>WERE YOU GOT?</h1></a>
           </Link>
     </div>
