@@ -9,8 +9,6 @@ const Responsive = () => (
       alt="ewergot"
       src={mountains}
       layout="responsive"
-      width={700}
-      height={475}
     />
   </div>
 )
