@@ -38,7 +38,6 @@
 .bgWrap {
   position: fixed;
   overflow: hidden;
-  z-index: -1;
 }
 
 .bgText {
