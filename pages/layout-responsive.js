@@ -6,7 +6,7 @@ const Responsive = () => (
 
   <div>
     <ViewSource pathname="pages/layout-responsive.js" />
-  <div className={styles.container}>
+  
     <Image
       alt="ewergot"
       src={mountains}
