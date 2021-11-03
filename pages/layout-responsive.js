@@ -4,9 +4,9 @@ import mountains from '../public/IMG-20211103-WA0012.jpg'
 
 const Responsive = () => (
 
-  <div className={styles.container}>
-  <div className={styles.card}>
+  <div>
     <ViewSource pathname="pages/layout-responsive.js" />
+  <div className={styles.container}>
     <Image
       alt="ewergot"
       src={mountains}
