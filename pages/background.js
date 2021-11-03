@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import ViewSource from '../components/view-source'
-import { bgWrap, bgText } from '../styles.module.css'
+import styles from '../styles.module.css'
+
+const Code = (p) => <code className={styles.inlineCode} {...p} />
 
 const Background = () => (
   <div>

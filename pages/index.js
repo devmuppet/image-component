@@ -2,7 +2,6 @@ import styles from '../styles.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
 import ViewSource from '../components/view-source'
-import vercel from '../public/vercel.png'
 
 const Code = (p) => <code className={styles.inlineCode} {...p} />
 
