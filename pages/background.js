@@ -13,8 +13,6 @@ const Background = () => (
       <Image
         alt="ewergot"
         src="/IMG-20211103-WA0012.jpg"
-        layout="fill"
-        objectFit="cover"
         quality={100}
       />
     </div>
