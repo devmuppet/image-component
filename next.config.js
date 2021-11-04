@@ -1,6 +1,6 @@
 module.exports = {
   images: {
-    domains: ['assets.vercel.com'],
+    domains: ['ewergot.pages.dev','gotten.ie'],
     formats: ['image/avif', 'image/webp'],
   },
 }
